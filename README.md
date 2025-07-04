@@ -1,8 +1,12 @@
-Unlabeled Sound Data Clustering
+**SOUND_CLUSTERING**
+
+
+
+**Unlabeled Sound Data Clustering**
 This repository contains the solution for a formative assignment focused on applying clustering techniques to an unlabeled sound dataset and exploring the application of Hidden Markov Models (HMMs) to a capstone project idea.
 
-Table of Contents
-Part 1: Sound Dataset Clustering
+**Table of Contents**
+*Part 1: Sound Dataset Clustering*
 
 Objective
 
@@ -24,7 +28,7 @@ How to Run the Notebook
 
 Author
 
-Part 1: Sound Dataset Clustering
+**Part 1: Sound Dataset Clustering**
 Objective
 The primary objective of this part of the assignment is to apply various clustering techniques to an unlabeled sound dataset, analyze the necessity and impact of dimensionality reduction, and compare different clustering methods based on performance metrics and visual interpretability.
 
@@ -90,7 +94,7 @@ seaborn (for enhanced visualizations)
 
 scikit-learn (for StandardScaler, PCA, TSNE, KMeans, DBSCAN, silhouette_score, davies_bouldin_score)
 
-Part 2: Hidden Markov Model (HMM) Application
+**Part 2: Hidden Markov Model (HMM) Application**
 Capstone Project Idea
 The capstone project aims to develop a low-bandwidth educational content platform using HTML, CSS, JavaScript, and Node.js. This "Web-Based Quiz and E-Learning Platform with Offline Support" will allow children in rural areas to study even with poor internet connection, aligning with SDG 4 (Quality Education).
 
@@ -144,6 +148,7 @@ How to Run the Notebook
 Clone the Repository:
 
 git clone https://github.com/IkireziI/Sound_Clustering.git
+
 cd Sound_Clustering
 
 Download Dataset: Download unlabelled_sounds.zip from my repository in the folder called Datasets.
